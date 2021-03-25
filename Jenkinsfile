@@ -8,12 +8,6 @@ pipeline {
       }
     }
 
-     stage('KtlinCheck') {
-          steps {
-            sh './gradlew ktlintCheck'
-          }
-        }
-
     stage('Unit test') {
       steps {
         sh './gradlew testDebugUnitTest testDebugUnitTest'
