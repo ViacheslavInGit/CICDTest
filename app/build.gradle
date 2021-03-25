@@ -38,6 +38,15 @@ android {
         serviceCredentialsFile = "$rootDir/compost-e2c91-1faf38cc5a87.json"
         groups = "QA"
     }
+
+    signingConfigs {
+        release {
+
+        }
+        debug {
+            storeFile file('keys/debug/debug.keystore')
+        }
+    }
 }
 
 dependencies {
