@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502432269338",
+    "project_id": "compost-e2c91",
+    "storage_bucket": "compost-e2c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502432269338:android:9565c47d22fa58deacbda3",
+        "android_client_info": {
+          "package_name": "com.example.compost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502432269338-bfjdkle4l845u6kp7heonf11qc89a7ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYY6lvJbB5RO7NttL6q8_d1JFITY9Vbb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502432269338-bfjdkle4l845u6kp7heonf11qc89a7ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
