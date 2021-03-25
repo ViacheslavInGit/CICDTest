@@ -37,6 +37,7 @@ android {
         releaseNotes = "Test Notes"
         serviceCredentialsFile = "$rootDir/compost-e2c91-1faf38cc5a87.json"
         groups = "QA"
+        apkPath = "$rootDir/app/build/outputs/apk/debug/"
     }
 
     signingConfigs {
